@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Visit Tokyo",
+    "description": "Experience the future and tradition side-by-side.",
+    "price": 1200
+  },
+  {
+    "title": "Explore New York",
+    "description": "The city that never sleeps awaits your adventure.",
+    "price": 1000
+  },
+  {
+    "title": "Safari in Kenya",
+    "description": "Discover wildlife in the Masai Mara.",
+    "price": 1800
+  }
+]
+ 
